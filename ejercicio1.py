@@ -1,2 +1,2 @@
 nombre = input("¿Cuál es tu nombre? ")
-print("¡Hola, " + nombre + "! Bienvenido.")
+print("¡Hola, " + nombre + "! Bienvenido a python.")
